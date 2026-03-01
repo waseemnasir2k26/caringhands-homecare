@@ -140,9 +140,14 @@ const Footer = () => {
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <p className="text-gray-400 text-sm">
-              &copy; {currentYear} CaringHands Home Care. All rights reserved.
-            </p>
+            <div className="text-center md:text-left">
+              <p className="text-gray-400 text-sm">
+                &copy; {currentYear} CaringHands Home Care. All rights reserved.
+              </p>
+              <p className="text-gray-500 text-xs mt-1">
+                Designed and developed by <span className="text-teal font-medium">Skynetlabs</span>
+              </p>
+            </div>
             <div className="flex space-x-6">
               <a
                 href="#"
