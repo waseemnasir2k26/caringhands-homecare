@@ -2,6 +2,11 @@
 
 A professional, responsive landing page for a homecare services company built with React and Tailwind CSS.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
+
 ## Tech Stack
 
 - **React 19** - Frontend framework
