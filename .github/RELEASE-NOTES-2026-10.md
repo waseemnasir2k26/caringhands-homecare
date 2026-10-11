@@ -1,0 +1,4 @@
+- caringhands-homecare is a public React 19 + Tailwind CSS marketing landing page for a homecare services company (hero, services, testimonials, FAQ, contact form, JSON-LD SEO).
+- Current state: last functional commits were 2026-03-01 (Vercel peer-dependency fix and SkynetLabs footer credit); no code changes since.
+- Reviewed October 2026: package.json minor-bumped to 1.2.0 and release metadata refreshed. A standard MIT LICENSE file was added because the README already states the project is MIT licensed.
+- Known gaps: the README clone URL is still the placeholder `yourusername`; no tests or CI workflow; no live URL is stated in the README.
